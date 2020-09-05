@@ -1,6 +1,10 @@
 {
-    "95206881": {
-        "ScriptName": "Test.lua",
-        "GameName": "Baseplate"
+    "286090429": {
+        "ScriptName": "Arsenal.lua",
+        "GameName": "Arsenal"
     },
+    "1165047394": {
+        "ScriptName": "Infection.lua",
+        "GameName": "Infection Inc."
+    }
 }
