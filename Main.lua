@@ -17,7 +17,7 @@ local Game = GetGame()
 
 if Game then
     Supported = true
-    Script = game:HttpGet('https://raw.githubusercontent.com/alfiebgtbhgh/test/script/' .. Game.ScriptName)
+    Script = game:HttpGet('https://raw.githubusercontent.com/alfiebgtbhgh/ReflexHub/script/' .. Game.ScriptName)
 end
 
 local Loader = Instance.new("ScreenGui")
