@@ -3,7 +3,7 @@ local Finity = loadstring(game:HttpGet("http://finity.vip/scripts/finity_lib.lua
 
 
 
-local FinityWindow = Finity.new(true, "Sword Simulator 3 | Reflex Hub", UDim2.new(0, 650, 0, 450))
+local FinityWindow = Finity.new(true, "Dashing Simulator | Reflex Hub", UDim2.new(0, 650, 0, 450))
 FinityWindow.ChangeToggleKey(Enum.KeyCode.P)
 
 
